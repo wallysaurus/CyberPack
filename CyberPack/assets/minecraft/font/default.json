@@ -3,36 +3,36 @@
         {
             "type": "bitmap",
             "file": "minecraft:sb/00.png",
-            "ascent": 30,
-            "height": 30,
+            "ascent": 20,
+            "height": 20,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:sb/10.png",
-            "ascent": 30,
-            "height": 30,
+            "ascent": 20,
+            "height": 20,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:sb/20.png",
-            "ascent": 30,
-            "height": 30,
+            "ascent": 20,
+            "height": 20,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:sb/30.png",
-            "ascent": 30,
-            "height": 30,
+            "ascent": 20,
+            "height": 20,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:sb/40.png",
-            "ascent": 30,
-            "height": 30,
+            "ascent": 20,
+            "height": 20,
             "chars": ["\uE005"]
         },
         {
