@@ -37,10 +37,24 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/cybercade3.png",
-            "ascent": 35,
-            "height": 35,
+            "file": "minecraft:sb/avatar.png",
+            "ascent": 10,
+            "height": 10,
             "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/clock.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/worldfile.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE008"]
         },
         {
             "type": "bitmap",
