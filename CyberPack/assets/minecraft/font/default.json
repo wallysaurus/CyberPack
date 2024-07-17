@@ -45,15 +45,15 @@
         {
             "type": "bitmap",
             "file": "minecraft:sb/clock.png",
-            "ascent": 10,
-            "height": 10,
+            "ascent": 7,
+            "height": 7,
             "chars": ["\uE007"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:sb/worldfile.png",
-            "ascent": 10,
-            "height": 10,
+            "ascent": 7,
+            "height": 7,
             "chars": ["\uE008"]
         },
         {
